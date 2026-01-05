@@ -58,23 +58,20 @@
 ---
 
 ## 📜 Azure Certifications
-<p align="center">
-
-<a href="https://www.credly.com/badges/e58cf48f-f232-4f56-bd83-f63e00070b0f">
-  <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://learn.microsoft.com/en-us/users/virajpathirana-5880/credentials/9878009d4d625fe3">
-  <img src="https://img.shields.io/badge/Microsoft-AI--900%20Azure%20AI%20Fundamentals-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-  <em>✔ Click the badges to verify the certifications</em>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/e58cf48f-f232-4f56-bd83-f63e00070b0f">
+        <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/users/virajpathirana-5880/credentials/9878009d4d625fe3">
+        <img src="https://img.shields.io/badge/Microsoft-AI--900%20Azure%20AI%20Fundamentals-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
