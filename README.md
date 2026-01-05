@@ -58,26 +58,23 @@
 ---
 
 ## 📜 Azure Certifications
-<div align="center">
+<p align="center">
 
 <a href="https://www.credly.com/badges/e58cf48f-f232-4f56-bd83-f63e00070b0f">
-  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
-       width="120"
-       alt="Azure Fundamentals AZ-900"/>
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </a>
 
-<br/><br/>
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://learn.microsoft.com/en-us/users/virajpathirana-5880/credentials/9878009d4d625fe3">
-  <img src="https://img.shields.io/badge/Microsoft-AI--900%20Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
-       alt="Azure AI Fundamentals AI-900"/>
+  <img src="https://img.shields.io/badge/Microsoft-AI--900%20Azure%20AI%20Fundamentals-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </a>
 
-<br/><br/>
+</p>
 
-<em>✔ Click the badges to verify the certifications</em>
-
-</div>
+<p align="center">
+  <em>✔ Click the badges to verify the certifications</em>
+</p>
 
 ---
 
