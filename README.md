@@ -3,7 +3,7 @@
 # 👋 Hi, I'm **Viraj Buwaneka**
 ### 🤖 Machine Learning Practitioner | AI & LLM Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=virajbuwaneka&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=virajbuwaneka&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 <br/><br/>
 
@@ -14,33 +14,33 @@
 ---
 
 ## 🌟 About Me
-✨ Passionate about **Machine Learning, Deep Learning, Artificial Intelligence, and Large Language Models**  
-🧠 I enjoy transforming **data into intelligent, real-world solutions**  
-☁️ Skilled in **Microsoft Azure** for AI & cloud-based systems  
-📊 Strong interest in **Data Analytics, BI, and decision-driven insights**
+✨ Passionate about **Machine Learning, Deep Learning, AI, and Large Language Models**  
+🧠 Turning data into **intelligent real-world solutions**  
+☁️ Working with **Microsoft Azure** for scalable AI systems  
+📊 Interested in **Data Analytics & Business Intelligence**
 
 ---
 
-## 🌐 Let’s Connect
+## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/viraj-pathirana-aa01bb2a0" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/viraj-pathirana-aa01bb2a0">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@virajpathirana35" target="_blank">
+  <a href="https://medium.com/@virajpathirana35">
     <img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,azure,mysql,pytorch,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,azure,mysql,pytorch,sklearn&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45"/>
 </p>
 
 ---
@@ -48,42 +48,45 @@
 ## 🚀 What I Love Building
 <p align="center">
 
-🔹 Machine Learning Models & Pipelines  
-🔹 NLP, LLM & AI-powered Applications  
-🔹 Data Analytics & Business Dashboards  
-🔹 Cloud-based AI Solutions using Azure  
+🔹 Machine Learning Pipelines  
+🔹 NLP & LLM Applications  
+🔹 Analytics Dashboards  
+🔹 Azure-based AI Solutions  
 
 </p>
 
 ---
 
 ## 📜 Azure Certifications
-<p align="center">
-  <a href="https://www.credly.com/badges/e58cf48f-f232-4f56-bd83-f63e00070b0f" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
-         alt="Microsoft Certified: Azure Fundamentals"
-         width="120"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/users/virajpathirana-5880/credentials/9878009d4d625fe3" target="_blank">
-    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-azure-ai-fundamentals.png"
-         alt="Microsoft Certified: Azure AI Fundamentals"
-         width="120"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <em>✔ Click the badges to verify the certifications</em>
-</p>
+<a href="https://www.credly.com/badges/e58cf48f-f232-4f56-bd83-f63e00070b0f">
+  <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
+       width="120"
+       alt="Azure Fundamentals AZ-900"/>
+</a>
+
+<br/><br/>
+
+<a href="https://learn.microsoft.com/en-us/users/virajpathirana-5880/credentials/9878009d4d625fe3">
+  <img src="https://img.shields.io/badge/Microsoft-AI--900%20Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
+       alt="Azure AI Fundamentals AI-900"/>
+</a>
+
+<br/><br/>
+
+<em>✔ Click the badges to verify the certifications</em>
+
+</div>
 
 ---
 
 ## ✨ Inspiration
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="360"/>
 
-> *"AI is not the future — it is the present being built by those who learn."*
+> *"AI is not the future — it is the present being built today."*
 
 </div>
 
@@ -92,6 +95,6 @@
 <div align="center">
 
 🌱 **Always learning. Always building. Always improving.**  
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Thanks for visiting my profile!
 
 </div>
